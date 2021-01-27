@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Futura';
+    src: url("../fonts/Futura/futuralightc.otf");
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+body {
+    min-height: 100vh;
+    border: solid 1px #e6f0e9;
+    background-color: #e6f0e9;
+    font-family: 'Futura', sans-serif;
+    padding: 26px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+.table {
+    font-size: 22px;
+    min-width: 360px;
+    border: 1px solid #dee2e6;
+}
+
+.table-head {
+    font-weight: bold;
+}

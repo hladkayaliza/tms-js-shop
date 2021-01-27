@@ -1,0 +1,178 @@
+{
+  "shops": [
+    {
+      "id": 1,
+      "name": "Corona city",
+      "address": "Mayakovskogo str.,",
+      "schedule": "09.00 - 23.00"
+    },
+    {
+      "id": 2,
+      "name": "Prostore",
+      "address": "Derginskogo str.,",
+      "schedule": "00.00 - 24.00"
+    },
+    {
+      "id": 3,
+      "name": "Belmarket",
+      "address": "Napoleona Ordi str.,",
+      "schedule": "10.00 - 22.00"
+    },
+    {
+      "id": 4,
+      "name": "Bigz",
+      "address": "Karbisheva str.,",
+      "schedule": "08.00 - 23.00"
+    },
+    {
+      "id": 5,
+      "name": "Gippo",
+      "address": "Goreckogo str,",
+      "schedule": "08.00 - 24.00"
+    },
+    {
+      "id": 6,
+      "name": "Vitalyur",
+      "address": "Ginovicha str.,",
+      "schedule": "09.00 - 22.00"
+    },
+    {
+      "id": 7,
+      "name": "Green",
+      "address": "Kammenaya gorka",
+      "schedule": "08.00 - 22.00"
+    },
+    {
+      "id": "34",
+      "name": "new",
+      "address": "new",
+      "schedule": "new"
+    },
+    {
+      "id": "65",
+      "name": "Caleope",
+      "address": "Bobruiskaja str, 25",
+      "schedule": "10.00 - 17.00"
+    },
+    {
+      "id": "74",
+      "name": "Corona city",
+      "address": "Mayakovskogo str.,",
+      "schedule": "09.00 - 23.00"
+    }
+  ],
+  "shopProducts": [
+    {
+      "id": 1,
+      "idShop": 1,
+      "idProduct": 1
+    },
+    {
+      "id": 1,
+      "idShop": 2,
+      "idProduct": 2
+    },
+    {
+      "id": 1,
+      "idShop": 3,
+      "idProduct": 3
+    },
+    {
+      "id": 1,
+      "idShop": 5,
+      "idProduct": 4
+    },
+    {
+      "id": 1,
+      "idShop": 5,
+      "idProduct": 5
+    },
+    {
+      "id": 1,
+      "idShop": 1,
+      "idProduct": 6
+    },
+    {
+      "id": 1,
+      "idShop": 3,
+      "idProduct": 6
+    },
+    {
+      "id": 1,
+      "idShop": 3,
+      "idProduct": 1
+    },
+    {
+      "id": 1,
+      "idShop": 4,
+      "idProduct": 1
+    },
+    {
+      "id": 1,
+      "idShop": 7,
+      "idProduct": 7
+    },
+    {
+      "id": 1,
+      "idShop": 6,
+      "idProduct": 9
+    },
+    {
+      "id": 1,
+      "idShop": 5,
+      "idProduct": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Fresh apple"
+    },
+    {
+      "id": 2,
+      "name": "Melon",
+      "description": "Yellow melon"
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "description": "Taste orange"
+    },
+    {
+      "id": 4,
+      "name": "Milk",
+      "description": "Fet milk"
+    },
+    {
+      "id": 5,
+      "name": "Cookies",
+      "description": "Vanile cookies"
+    },
+    {
+      "id": 6,
+      "name": "Fish",
+      "description": "Norway fish"
+    },
+    {
+      "id": 7,
+      "name": "Pasta",
+      "description": "Italian pasta"
+    },
+    {
+      "id": 8,
+      "name": "Chocolate",
+      "description": "Dark chockolate"
+    },
+    {
+      "id": 9,
+      "name": "Water",
+      "description": "Water without gas"
+    },
+    {
+      "id": 10,
+      "name": "Tomato",
+      "description": "Red tomato"
+    }
+  ]
+}
